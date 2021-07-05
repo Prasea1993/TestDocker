@@ -1,0 +1,1 @@
+docker-compose -f dockerCompose.yaml up >> dockerUp_logs.txt
